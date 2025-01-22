@@ -20,6 +20,8 @@ $ java hahu.Main
 ```
 
 ## Hahu letters (ሀሁ ፊደላት)
+- The 🔴 colored letters (ፊደላት) are for indicating I still didn't figure out suitable characters for them.
+
 ![hahu letters](./pictures-for-README/hahu-letters.png)
 
 
