@@ -12,7 +12,8 @@ hahu (ሀሁ) is a command-line tool for transcribing English text into Amharic 
 
 ## How to Run
 ```shell
-$ javac -d . Main.java
+$ cd hahu
+$ javac -d . Main.java Transcribe.java Letters.java
 $ java hahu.Main
 ```
 
