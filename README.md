@@ -1,5 +1,7 @@
 ![hahu](./pictures-for-README/hahu.png)
 
+The code is in beta. Some of the transcribing may not work as intended!
+
 ## Installation
 Before getting started, ensure that git is installed on your computer.
 ```shell
