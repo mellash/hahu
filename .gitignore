@@ -5,8 +5,8 @@
 build
 
 # Ignore out/ folder
-./out/*
+out/*
 
 # Idea files
-./hahu.iml
-./.idea/*
+hahu.iml
+.idea/*
